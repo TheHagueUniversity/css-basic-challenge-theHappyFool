@@ -93,6 +93,11 @@ header {
   color: #6B818C;
 }
 
+/* Gallery
+------------------------------------*/
+.gallery{
+	background:darkgrey;
+}
 
 /* Projects
 ------------------------------------*/
