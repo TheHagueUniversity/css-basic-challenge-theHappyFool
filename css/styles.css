@@ -28,6 +28,11 @@ body {
 }
 img {
   width: 300px;
+  border:4px solid black;
+  border-radius:1em;	
+}
+.enlarge:hover{
+	cursor: zoom-in
 }
 a {
   color: #D8E4FF;
